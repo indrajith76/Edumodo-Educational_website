@@ -955,20 +955,20 @@ header{
     margin-left: 5px;
 }
 
-/* 12. About css */
-.about{
+/* 12. About Service css */
+.about-service{
     background: #313131;
     padding: 60px;
 }
 
-.about h3 {
+.about-service h3 {
     font-size: 20px;
     line-height: 26px;
     color: #FFFFFF;
     margin-bottom: 15px;
 }
 
-.about-us p{
+.about-our-service p{
     font-size: 14px;
     line-height: 22.5px;
     color: #E1E1E1;
@@ -977,17 +977,17 @@ header{
     opacity: 90%;
 }
 
-.about-us ul{
+.about-our-service ul{
     list-style: none;
     color: #E1E1E1;
     font-size: 15px;
     opacity: 80%;
 }
 
-.about-us ul li{
+.about-our-service ul li{
     margin-bottom: 10px;
 }
-.about-us ul li i{
+.about-our-service ul li i{
     margin-right: 7px;
 }
 
